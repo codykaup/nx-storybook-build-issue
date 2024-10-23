@@ -1,0 +1,9 @@
+{
+  "name": "nx-cli",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nx-cli/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project nx-cli --web",
+  "targets": {}
+}
